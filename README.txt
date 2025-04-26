@@ -138,12 +138,13 @@ XAMPP للسيرفر المحلي
 
 📂 ترتبيهم بهيك شكل:
     hotel/
-    ├── create_database.sql
-    ├── create_users_table.sql
-    ├── create_hotels_table.sql
-    ├── create_bookings_table.sql
-    ├── create_reviews_table.sql
-    ├── insert_admin_user.sql
+   ├── sql/
+      ├── create_database.sql
+      ├── create_users_table.sql
+      ├── create_hotels_table.sql
+      ├── create_bookings_table.sql
+      ├── create_reviews_table.sql
+      ├── insert_admin_user.sql
     ├── README.txt
     ├── db.php
     ├── login.php
